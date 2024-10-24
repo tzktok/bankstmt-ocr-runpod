@@ -1,0 +1,15 @@
+runpod==1.6.2
+boto3>=1.34.94
+pandas>=2.1.1
+requests>=2.31.0
+XlsxWriter
+pdf2image
+ultralytics
+python-dotenv
+paddlepaddle
+paddlepaddle-gpu
+pandas
+paddleocr
+pillow
+PyMuPDF
+python-doctr
